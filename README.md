@@ -24,4 +24,7 @@ Um projeto simples e divertido desenvolvido com **HTML, CSS e JavaScript**. O ca
 | 🚀    | Código Funcionando  |
 | 💀    | Erro 404: Paciência |
 
+Site Publicado:
+https://rodrigues-giovanna.github.io/Desafio-01/
+
 Feito por *Giovanna Rodrigues* 💚
