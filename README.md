@@ -25,6 +25,6 @@ Um projeto simples e divertido desenvolvido com **HTML, CSS e JavaScript**. O ca
 | 💀    | Erro 404: Paciência |
 
 Site Publicado:
-https://rodrigues-giovanna.github.io/Desafio-01/
+https://rodrigues-giovanna.github.io/Humor-do-Programador/
 
 Feito por *Giovanna Rodrigues* 💚
